@@ -1,4 +1,4 @@
-# Hey there, I’m Jhanvi Rani  
+# Hey there, I’m Jhanvi 
 
 - Sophomore @ GSSS Institute of Engineering & Tech (AI & DS, 2024–2028)  
 - Exploring **AI | Web3 | Blockchain | Data Science**  
