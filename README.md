@@ -1,6 +1,6 @@
 # Hey there, I’m Jhanvi 
 
-- Sophomore @ GSSS Institute of Engineering & Tech (AI & DS, 2024–2028)  
+- Sophomore @ GSSS Institute of Engineering & Technology (AI & DS, 2024–2028)  
 - Exploring **AI | Web3 | Blockchain | Data Science**  
 - Quick learner | Tech explorer | Always building something new  
 
