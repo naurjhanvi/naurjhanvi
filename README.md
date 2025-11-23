@@ -36,12 +36,13 @@ I’m a curious developer who loves turning ideas into **fun + useful projects**
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naurjhanvi&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naurjhanvi&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=naurjhanvi&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naurjhanvi&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
 ---
 
 ## Connect With Me  
