@@ -1,56 +1,94 @@
-# Hey there, I’m Jhanvi 
+<div align="center">
 
-- Sophomore @ GSSS Institute of Engineering & Technology (AI & DS, 2024–2028)  
-- Exploring **AI | Web3 | Blockchain | Data Science**  
-- Quick learner | Tech explorer | Always building something new  
+# Jhanvi Rani
 
----
+**AI & Data Science · Edge AI · Agricultural Tech · Security Systems**
 
-## About Me  
-I’m a curious developer who loves turning ideas into **fun + useful projects**. Whether it’s creating a Gen Z–themed programming language or coding an AI agent with browsing powers, I’m always experimenting.  
+Sophomore @ GSSS Institute of Engineering & Technology for Women, Mysuru
 
-- Currently learning **DevOps + Machine Learning**  
-- Love **public speaking & tech events**  
-- Fun fact: I built a programming language in **Gen Z slang**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhanvi-r-4b6481235/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jhanvi.r51@gmail.com)
+
+</div>
 
 ---
 
-## Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Cypher](https://img.shields.io/badge/Neo4j%20Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+## About
+
+I build ML systems that solve real-world problems, from securing critical infrastructure to helping farmers make smarter decisions.
 
 ---
 
-## Featured Projects  
-- **GenZPy** – A Python package with **Gen Z slang syntax**  
-- **AI Agent with Browsing** – Autonomous bot that fetches results + navigates sites  
-- **Smart Attendance System** – Face recognition engine with auto-finalization logic and 2-Factor substitute security
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+**ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🌾 AgriPredict AI — Smart Farming Platform
+`LSTM` `CNN` `Random Forest` `FastAPI` `React`
+
+End-to-end agricultural decision system built during a national hackathon. Combines three specialized models — crop yield prediction (LSTM), disease detection from imagery (CNN), and crop recommendation (Random Forest) — into a unified real-time inference pipeline. Farmers get actionable insights from minimal input.
+
+> **Hack-Olympic 2026 · 2nd Runner-Up · ₹20,000**
+
+---
+
+### 🔒 Project Argus — Edge AI for ICS Security
+`TensorFlow` `LSTM Autoencoder` `Streamlit`
+
+Anomaly detection system for critical infrastructure security. Introduced a rolling variance layer to catch stealthy replay attacks that standard models miss. Processes 174-dimensional telemetry data with an interactive Streamlit dashboard for real-time visualization.
+
+---
+
+### 📋 AttendAI — Smart Attendance System
+`Flask` `DeepFace` `OpenCV`
+
+Automated attendance tracking via facial recognition with built-in liveness detection — no spoofing, no proxies. Clean, real-time pipeline from camera feed to attendance record.
 
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naurjhanvi&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=naurjhanvi&theme=tokyonight" height="180px"/>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naurjhanvi&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naurjhanvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=naurjhanvi&theme=tokyonight&hide_border=true&background=0d1117" height="170px"/>
+</div>
 
----
-
-## Connect With Me  
-[Portfolio Soon]  
-[LinkedIn](https://www.linkedin.com/in/jhanvi-r-4b6481235/)  
-[GitHub](https://github.com/naurjhanvi)  
-jhanvi.r51@gmail.com  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naurjhanvi&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS" />
+</div>
 
 ---
 
-  “Building the future, one commit at a time.” 
+<div align="center">
+
+*"Ship fast. Learn faster."*
+
+</div>
